@@ -1,0 +1,2 @@
+Name = Richard
+Registration no.: 1234
